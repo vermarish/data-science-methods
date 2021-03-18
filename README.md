@@ -1,4 +1,4 @@
-# Computational Methods for Data Science:
+# Computational Methods for Data Science
 
 This repository contains a few open-ended data-driven projects I undertook in Winter 2021 under the supervision of [Dr. Jason Bramburger](https://faculty.washington.edu/jbrambur/) and [Dr. Nathan Kutz](https://faculty.washington.edu/kutz/) at UW. Topics include:
 
@@ -25,4 +25,4 @@ Each directory has a `report.pdf`, the abstracts of which are reproduced below i
 
 **background-subtraction**: Sequential frames of a video can be regarded as a transformation of the previous. In the process of Dynamic Mode Decomposition, this transformation is assumed to be linear and decomposed. Out of the resulting components, the constant-order ones can be used to isolate the background of the video. The background is then subtracted from the original video to successfully isolate the foreground.
 
-My two favorite projects are short-time-fast-time and three-ml-mnist-models. They have the prettiest results.
+If you've made it this far, my two favorite projects are `short-time-fast-time` and `three-ml-mnist-models`. They have the prettiest results.
