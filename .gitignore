@@ -1,0 +1,22 @@
+# No data
+*/data/*
+*ubyte
+*.csv
+*.m4a
+*.mat
+
+# No assignment prompts
+*Assignment*
+
+# No LaTeX temp files
+# Keep only .pdf, .tex, and .png
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.run.xml
+*.synctex.gz
+
+*minted-report
+
