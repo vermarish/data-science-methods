@@ -1,5 +1,7 @@
 # Computational Methods for Data Science
 
+[From three-ml-mnist-models](./three-ml-mnist-models/figs/10projections.png)
+
 This repository contains a few open-ended data-driven projects I undertook in Winter 2021 under the supervision of [Dr. Jason Bramburger](https://faculty.washington.edu/jbrambur/) and [Dr. Nathan Kutz](https://faculty.washington.edu/kutz/) at UW. Topics include:
 
 * noise cancellation
