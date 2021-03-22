@@ -13,7 +13,7 @@ This repository contains a few open-ended data-driven projects I undertook in Wi
 
 These projects are unified under the common theme of acoustic/image signal processing and dimensionality reduction with different flavors of PCA.
 
-Each directory has a `report.pdf`, the abstracts of which are reproduced below in chronological order.
+Each directory has a `__report__.pdf`, the abstracts of which are reproduced below in chronological order.
 
 ----
 
